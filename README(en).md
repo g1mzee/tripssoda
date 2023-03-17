@@ -1,4 +1,4 @@
-# Community Type Travel Platform - TripSsoda
+# Community Type Travel Platform - Tripssoda
 
 ## Introduce
 When planning a trip, it is not easy to match the schedule even with best friends.<br>
@@ -26,7 +26,7 @@ Admin Integration Board|5
 Payment & Reservation|4
 User Rights|5
 Code Table|7
-Talbe for analysis|4
+Table for analysis|4
 etc|9
 **Total**|**59**
 
@@ -35,10 +35,10 @@ etc|9
 
 ## Main Function
 * Kakao Login API
-* Mypage
+* My Page
 * Community Board
 * Partner Entry Application
-* Partner Product Registration
+* Partner Product Register
 * Partner Management
 * Product Management
 * KG Inicis & Kakao Pay Payment
