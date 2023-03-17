@@ -8,7 +8,7 @@ And it is designed to sell travel products through cooperation with partner trav
 <br>
 
 ## 📆 How long....?
-<img src="https://user-images.githubusercontent.com/87851820/188601793-a114a5a6-9417-48a4-b6e4-5dd8e34d6cfa.png" width="270"/>&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87851820/188602363-05ffb178-9710-4a79-acea-0b9db0824825.png" width="270"/><br>
+<img src="https://user-images.githubusercontent.com/100552631/225847285-72adef75-7ad3-4dd2-ad93-cf384f30e34c.png" width="270"/>&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/87851820/188602363-05ffb178-9710-4a79-acea-0b9db0824825.png" width="270"/><br>
 <br>
 
 ## 📄 ERD
