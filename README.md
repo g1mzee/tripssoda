@@ -17,7 +17,7 @@ The most prepared part before starting the project was the ERD design.<br>
 We took a modeling class for better design, and also recruited and conducted a separate study.<br>
 <br>
 
-core module | number
+core module | count
 ---|---|
 User & Partner|13
 Travel Product|6
