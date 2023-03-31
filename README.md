@@ -51,7 +51,7 @@ etc|9
 <br>
 
 ## 📈 Project Analysis
-Language|File|Whitespace|Command|Code|Ratio
+Language|File|Whitespace|Command|Code|Percentage
 ---|---|---|---|---|---|
 Java|161|3,002|596|10,966|42.86%
 JSP|68|1,003|703|6,555|25.62%
